@@ -1,4 +1,4 @@
-SCS-C03 Study Hub
+#SCS-C03 Study Hub
 
 Interactive beta study hub for the **AWS Certified Security - Specialty SCS-C03** certification.
 
